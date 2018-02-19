@@ -12,7 +12,7 @@ import anywheresoftware.b4a.BA.ShortName;
 import anywheresoftware.b4a.BA.Version;
 import anywheresoftware.b4a.BA.Author;
 
-@Author("Jamie John")
+@Author("AskQuickly")
 @Version(1.0f)
 //embed this?
 @DependsOn(values = {"support-annotations-25.3.0"})
